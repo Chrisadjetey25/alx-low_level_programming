@@ -2,11 +2,11 @@
 
 /**
  *
- *  *main- Starting point for program execution
+ *  main- Starting point for program execution
  *
- *   *
+ *  
  *
- *    *Return: By default returns zero
+ *    Return: By default returns zero
       */
 
 int main(void)
