@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main- starting point for program execution
+ * 	*main- starting point for program execution
  *
- * 	Return: By default returns zero if no erros otherwise returns non-zero value.
+ * 	*Return: By default returns zero if no erros otherwise returns non-zero value.
  *
  *     */
 
