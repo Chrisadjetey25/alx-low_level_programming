@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
  *
- *  *main- Starting point for program execution
+ *  *main- Starting poin for program execution
  *
  *   *
  *
