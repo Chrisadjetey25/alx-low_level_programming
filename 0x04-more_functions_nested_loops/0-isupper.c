@@ -1,7 +1,7 @@
 #include "main."
 
 /**
- * _isupper - checks for uppercase character.
+ * _isupper - checks if a character is uppercase.
  * @c: Variable text
  * Return: Always 0
  */
